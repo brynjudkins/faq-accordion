@@ -1,3 +1,8 @@
+
+Hello this is my first challenge!
+
+---
+
 # Frontend Mentor - FAQ Accordion Card
 
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
